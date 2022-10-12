@@ -1,7 +1,7 @@
 # PyTorch 101
 
 
-Tensor Basics
-Autograd
-Backpropagation
-Gradient Descent
+## Tensor Basics
+## Autograd
+## Backpropagation
+## Gradient Descent
